@@ -34,7 +34,9 @@
       "Macro regime playbooks",
       "Stablecoin issuance dashboards",
       "On-chain flow alerts",
-      "Risk checkpoints & watchlists"
+      "Risk checkpoints & watchlists",
+      "New item"
     ]
-  }
+  },
+  "draft": false
 }
