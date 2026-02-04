@@ -1,7 +1,7 @@
-# Astro Content Demo
+# Sitepins Demo
 
 ![project status](https://img.shields.io/badge/project_status-active-success?style=for-the-badge)
-[![live site](https://img.shields.io/badge/live_site-blue?style=for-the-badge)](https://astro-content-demo.mail-25a.workers.dev/)
+[![live site](https://img.shields.io/badge/live_site-blue?style=for-the-badge)](https://sitepins-demo.mail-25a.workers.dev/)
 
 ## Tech Stack
 
